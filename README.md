@@ -9,7 +9,7 @@ Hi guys !  I am a full stack software engineer. ✌✌✌✌✌
 </picture>
 
 <details>
-<summary>
+<summary>Languages and Hobbies</summary>
 | #### | Hobbies-&-Languages |
 |-----:|---------------------|
 |     1| ------JavaScript----|
@@ -18,6 +18,6 @@ Hi guys !  I am a full stack software engineer. ✌✌✌✌✌
 |     4| ------Node.js-------|
 |     5| ------Mongodb------ |
 |     6| - Mandarin Chinese- |
-</summary>
+
 </details>
 
