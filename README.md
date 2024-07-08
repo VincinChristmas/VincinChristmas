@@ -2,9 +2,16 @@
 <h1 align="center">Hi 👋, I'm Vincin Christmas</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from Chicago, IL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincinchristmas&label=Profile%20views&color=0e75b6&style=flat" alt="vincinchristmas" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-<p align="left"> <a href="https://twitter.com/vineo666" target="blank"><img src="https://img.shields.io/twitter/follow/vineo666?logo=twitter&style=for-the-badge" alt="vineo666" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vincinchristmas&label=Profile%20views&color=0e75b6&style=flat" alt="vincinchristmas" /> </p>
+
+<p align="center"> <a href="https://twitter.com/vineo666" target="blank"><img src="https://img.shields.io/twitter/follow/vineo666?logo=twitter&style=for-the-badge" alt="vineo666" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Obect-oriented -programming, APIs**
 
