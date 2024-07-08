@@ -8,7 +8,7 @@ Hi guys !  I am a full stack software engineer. ✌✌✌✌✌
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-<details>
+<details open>
 <summary>Languages and Hobbies</summary>
 | #### | Hobbies-&-Languages |
 |-----:|---------------------|
@@ -20,4 +20,9 @@ Hi guys !  I am a full stack software engineer. ✌✌✌✌✌
 |     6| - Mandarin Chinese- |
 
 </details>
+
+---
+If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
 
