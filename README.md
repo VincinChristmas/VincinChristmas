@@ -13,7 +13,10 @@
 <div align="center">
 <h2>This is my portfolio</h2>
 (https://vincinchristmas.github.io/VincinChristmasPortfolio/) <br>
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=0SKFDg0w6AI)
+
+
+
+
 
 
 
