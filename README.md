@@ -1,6 +1,11 @@
-## About me
+<h1 align="center">I am a Full Stack Software Engineer</h1>
+<h1 align="center">Thanks for coming to my github ! 🍺🍺🍺🍺🍺🍺</h1>
+<h2 align="center">I primarily use MERN stack</h2>
 
-Hi guys !  I am a full stack software engineer. ✌✌✌✌✌
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![mongodblogo](https://github.com/user-attachments/assets/5522d8ba-3b58-4c42-a99e-fd39f2e590d2)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
