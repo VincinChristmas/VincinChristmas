@@ -14,7 +14,7 @@
 <h2>This is my portfolio</h2>
 (https://vincinchristmas.github.io/VincinChristmasPortfolio/) <br>
 
-![video1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4072078e-6422-4fbe-88ac-ca166f502ef3)
+![my gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)
 
 
 
