@@ -28,11 +28,6 @@ If we pull together and commit ourselves, then we can push through anything.
 — Mona the Octocat
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 
 
