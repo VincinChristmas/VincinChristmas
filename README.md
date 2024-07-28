@@ -19,9 +19,6 @@
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)
 
 
-
-
-
 </div>
 
 
@@ -29,6 +26,13 @@
 If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
