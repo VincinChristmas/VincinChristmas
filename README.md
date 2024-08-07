@@ -11,10 +11,11 @@
 </div> 
 
 <div align="center">
-[<h2>This is my portfolio<h2>
+<h2>This is my portfolio<h2>
+(https://vincinchristmas.github.io/VincinChristmasPortfolio/) 
 
 
-![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)](https://vincinchristmas.github.io/VincinChristmasPortfolio/) 
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)
 
 
 </div>
