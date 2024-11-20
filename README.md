@@ -1,5 +1,10 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <h1 align="center">I Love to Code</h1>
+  <h1 align="center">Thanks for coming to my github ! 🍺🍺🍺🍺🍺🍺</h1>
+  [This is my portfolio](https://vincinchristmas.github.io/VincinChristmasPortfolio/)
+
+  
+![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)
 </div>
 <h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
 <h3 align="center">A full stack developer from Tampa, FL</h3>
