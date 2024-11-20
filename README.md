@@ -27,7 +27,7 @@
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                    
                     
-                    </div>
+        
 </div>
 
 <br>
