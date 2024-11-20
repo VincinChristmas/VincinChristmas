@@ -4,9 +4,9 @@
  
 ![My GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd4N3VkeGpzcGg0bW15czJvaTByMDM5ZWhxZ2F1eHF4dXJ2YzM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOW5zSHFAfojM21cjD/giphy.gif)
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
-<h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h1 align="center">Hi 👋, I'm Vincin Christmas</h1>
+<h3 align="center">A Web Content Editor from Chicago, IL</h3>
+<h4 align="center">Hi my name is Vincin Christmas I am a web content editor based out of Chicago IL. I've been a web content editor for about a year now. I am good at and fond of using HTML, CSS, and JavaScript, as well as some CMS systems such as Wordpress and Shopify. In my spare time, I code and do katas on Codewars, build websites, continue to upgrade my skills. Besides computer languages, I also study foreign languages. I am intermediate in Mandarin Chinese and am on beginner level in Spanish, both of which I study during my spare time </h4>
 
 <hr>
 
