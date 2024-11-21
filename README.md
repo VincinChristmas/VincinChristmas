@@ -78,7 +78,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Landing page for curly fries. Has n email box modal</p>
+					<p>Landing page for curly fries. Has an email box modal</p>
 				</div>
         </tr>
 	    <tr>
@@ -106,8 +106,7 @@
                 <h3 align="center">Wordpress Cellphone Store</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="![image](https://github.com/user-attachments/assets/d7aa555d-423a-4b1b-901a-a9fa1a31b953)
-" alt="project 4" height="100%" />
+                        <img src="https://huaweiphones0.wordpress.com/wp-content/uploads/2024/09/mate-xt-ultimate-design-ksp-1.jpg" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
