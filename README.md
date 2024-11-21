@@ -48,78 +48,79 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/VincinChristmas/astropod" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://vincinchristmas.github.io/astropod/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-						Description goes here
+						Built with HTML, CSS, nd JavScript. Uses Fetch API to get a photo from NASA every day
 					</p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Hey Potato</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://vincinchristmas.github.io/Hey-Potato/' target="_blank">
+						<img src="https://vincinchristmas.github.io/Hey-Potato/assets/images/billboard.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/VincinChristmas/Hey-Potato" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://vincinchristmas.github.io/Hey-Potato/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					<p>Landing page for curly fries. Has n email box modal</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Muji Shopify</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://dreamsandthemes.myshopify.com/' target="_blank">
+                        <img src="https://vincinchristmas.netlify.app/images/muji.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://vincinchristmas.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://dreamsandthemes.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Built only using Shopify</strong></p>
+		    <p>Clothing store build on Shopify</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Wordpress Cellphone Store</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="![image](https://github.com/user-attachments/assets/d7aa555d-423a-4b1b-901a-a9fa1a31b953)
+" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://huaweiphones0.wordpress.com/mate-series/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://huaweiphones0.wordpress.com/mate-series/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Built only using wordpress</strong></p>
+		    <p>Cell phone store built on Wordpress</p>
                 </div>	
             </td>
         </tr>
