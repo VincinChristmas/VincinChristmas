@@ -40,10 +40,10 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">NASA API</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+					<a href='https://vincinchristmas.github.io/astropod/' target="_blank">
+						<img src="https://media.licdn.com/dms/image/D5622AQEz5xw3sJo44w/feedshare-shrink_800/0/1713627283827?e=2147483647&v=beta&t=Xsy93105Tr6dQCUGsIbrcRPDG0rpbY6YbW5KDCLwTPA" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
