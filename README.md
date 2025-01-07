@@ -25,6 +25,7 @@
 			    <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="css3" width="75" height="75"/>
                     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" alt="css3" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+		     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-plain.svg" alt="figma"  width="75" height="75"/>
                    
                     
         
